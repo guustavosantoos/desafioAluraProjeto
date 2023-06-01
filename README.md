@@ -17,3 +17,8 @@
 - Transferir o valor.
 - Receber algum valor.
 - Sair da aplicação.
+
+
+## Preview da aplicação.
+![image](https://github.com/guustavosantoos/desafioAluraProjeto/assets/65858920/74ff0b63-53e7-42f9-ae9e-f4b0d5bb7961)
+
