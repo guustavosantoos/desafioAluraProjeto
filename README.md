@@ -4,7 +4,7 @@
 ## Sobre o Projeto
 - Foi utilizado o JAVA versão `java 17.0.7 2023-04-18 LTS`
 - IDE:  `IntelliJ`
-- Curso: `Alura`
+- Curso: `Alura Primeira Aplicação`
 
 
 ## O projeto foi feito para ser parecido com uma conta de banco sendo possível, 
